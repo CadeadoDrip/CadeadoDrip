@@ -13,7 +13,7 @@ Atualmente, estou cursando o 3º ano de **Administração** e o técnico em **De
 
 ### Tecnologias e Habilidades
 
-* **Tech Stack:** HTML5, CSS3, JavaScript, PHP, MySQL
+* **Tech Stack:**  Python, HTML, CSS, JavaScript, PHP, SQL, C, C++, C#
 * **Business & Gestão:** Lógica de Negócios, Gestão de Projetos, Marketing e Visão Estratégica.
 * **Ferramentas:** Git, GitHub.
 
